@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_restaurant_list_delete"
+        android:checkable="false"
+        android:enabled="true"
+        android:title="Delete"
+        android:visible="true"></item>
+
+
+</menu>
